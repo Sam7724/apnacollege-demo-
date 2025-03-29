@@ -1,4 +1,4 @@
 # apnacollege-demo-
 This is my first Git repository
 <br>
-Author - Satyam Kumar
+Author - Satyam Kumar(IIT MADRAS)
